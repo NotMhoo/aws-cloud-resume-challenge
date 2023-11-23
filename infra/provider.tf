@@ -7,6 +7,6 @@ terraform {
   }
 }
 provider "aws" {
-  profile ="default"
-  region = "ca-central-1"
+  profile ="mhoo1"
+  region = "ap-southeast-1"
 }
