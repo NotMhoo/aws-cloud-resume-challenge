@@ -10,7 +10,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 
 **Services Used**:
 
-- S3
+- S3test
 - AWS CloudFront
 - Certificate Manager
 - AWS Lambda
