@@ -22,5 +22,4 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - 1. [AWS Cloud Resume Challenge](https://blog.heyitsmhoo.com/aws-cloud-resume-challenge)
  
 ## Author
-- LinkedIn: [asyafiqsharifuddin](https://linked.com/in/asyafiqsharifuddin)
-  
+- LinkedIn: [asyafiqsharifuddin](https://linkedin.com/in/asyafiqsharifuddin)
