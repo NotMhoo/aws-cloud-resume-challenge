@@ -6,11 +6,9 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 
 ## Architecture
 
-![Architecture Diagram](/img/AWS-Architecture-Cloud-resume-challenge.png)
-
 **Services Used**:
 
-- S3test
+- S3
 - AWS CloudFront
 - Certificate Manager
 - AWS Lambda
@@ -21,7 +19,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 ## [Live Demo 🔗](https://resume.heyitsmhoo.com)
 
 ## Blog
-- 1. [AWS Cloud Resume Challenge](https://dev.to/aws-builders/what-is-the-cloud-resume-challenge-ma5)
+- 1. [AWS Cloud Resume Challenge](https://blog.heyitsmhoo.com/aws-cloud-resume-challenge)
  
 ## Author
 - LinkedIn: [asyafiqsharifuddin](https://linked.com/in/asyafiqsharifuddin)
