@@ -6,10 +6,11 @@ body{
 }
 
 :root{
-    --color-black: #000000;
-    --color-white: #ffffff;
+    --color-black: #131313;
+    --color-white: #fafafa;
     --color-border: #E5EDF1;
-    --color-blue: #1D1D1D;
+    --color-blue: #292929;
+    --color-grey: #686868;
     --font-staat: 'Staatliches', cursive;
     --font-os:  'Oswald', sans-serif;
     --font-ram: 'Rambla', sans-serif;
@@ -140,7 +141,7 @@ body{
 }
 
 #typed{
-    color: var(--color-blue);
+    color: var(--color-grey);
 }
 /* #site-main */
 
